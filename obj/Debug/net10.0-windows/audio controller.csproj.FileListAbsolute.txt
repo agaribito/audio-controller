@@ -1,0 +1,30 @@
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\audio controller.exe
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\audio controller.deps.json
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\audio controller.runtimeconfig.json
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\audio controller.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\audio controller.pdb
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.Asio.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.Core.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.Midi.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.WinForms.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\bin\Debug\net10.0-windows\NAudio.WinMM.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.csproj.AssemblyReference.cache
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller_MarkupCompile.cache
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller_MarkupCompile.lref
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.g.resources
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.AssemblyInfoInputs.cache
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.AssemblyInfo.cs
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.csproj.CoreCompileInputs.cache
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio co.A07CD5C4.Up2Date
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\refint\audio controller.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.pdb
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller.genruntimeconfig.cache
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\ref\audio controller.dll
+C:\Users\purpl\source\repos\audio controller\audio controller\obj\Debug\net10.0-windows\audio controller_Content.g.cs
